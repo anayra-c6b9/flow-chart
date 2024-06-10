@@ -1,0 +1,8 @@
+.active {
+    border-style: solid;
+    border-color: rgb(207, 245, 251);
+}
+
+.shaded_border {
+    box-shadow: 0 0 8px black;
+}
